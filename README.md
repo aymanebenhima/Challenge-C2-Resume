@@ -22,9 +22,15 @@ Le modèle est créé en se basant sur les technologies HTML5 et CSS3. Vous ête
 3.  Deployment sur Github ou bien autre plateforme.
 
 
-## Compétence visée
+## Objectifs d'apprentissage
 
-Réaliser une interface utilisateur web statique et adaptable - Niveau 1
+Vous devez être en mesure de :
+
+- Comprendre comment HTML est utilisé pour le développement web.
+- Utiliser HTML pour construire la structure d'un site web.
+- Écrire du code HTML plus clair et plus accessible en utilisant des balises HTML sémantiques.
+- Décrire les rôles du HTML et du CSS dans une page web.
+- Comprendre le syntaxe d'un sélecteur css.
 
 
 ## Workflow
@@ -55,7 +61,7 @@ Effectuez un pull request et désignez le formateur comme examinateur de votre s
 
 ## Modalités d'évaluation
 
-Une description orale du code à titre individuel.
+Une description orale du code à titre collaboratifs.
 
 
 ## Critère de performance
@@ -66,4 +72,4 @@ Le résultat final doit avoir exactement votre CV respectant le design du modèl
 ## Modalités pédagogiques
 
 Travail individuel.
-1 jour.
+demi journée.
